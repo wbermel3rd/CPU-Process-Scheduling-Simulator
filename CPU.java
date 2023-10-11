@@ -13,7 +13,7 @@ public class CPU {
 	private RRSimulator scheduler;
 	private int quantum;
 	private int clock;
-	
+	 
 	public CPU() throws FileNotFoundException, IOException{
 		in = new Scanner(System.in);
 		fileAccepted = false;

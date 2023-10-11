@@ -6,4 +6,4 @@ public class PC {
 		CPU myCPU = new CPU();
 		myCPU.start();
 	}
-}
+} 

@@ -28,7 +28,7 @@ public class RRSimulator {
 		waitQ.add(p);
 		numProcesses++;
 	}
-	
+	 
 	// @Param uClock is the updated clock after processes have been created
 	public void run(int uClock) {
 		clock = uClock;

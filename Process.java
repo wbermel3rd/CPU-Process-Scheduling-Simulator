@@ -1,5 +1,5 @@
 
-public class Process {
+public class Process { 
 	private int timeArrive; // arrival time
 	private int timeBurst; // burst time
 	private String pid;
